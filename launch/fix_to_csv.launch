@@ -1,0 +1,6 @@
+<launch>
+    <rosparam file="$(find fix_to_csv)/config/example.yaml" command="load" />
+    <!-- My Package launch file -->
+    <node pkg="fix_to_csv" type="fix_to_csv" name="fix_to_csv"  output="screen">
+    </node>
+</launch>

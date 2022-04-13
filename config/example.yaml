@@ -1,0 +1,4 @@
+# must specify absolute path
+output_file: "/home/fran/gps.csv"
+# gps fix topic
+fix_topic: "ublox/fix"
