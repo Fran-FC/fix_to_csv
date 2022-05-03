@@ -1,6 +1,6 @@
 # fix_to_csv
 
-Convert gps fix topic to csv map format to open it with My Maps (Google).
+Convert gps fix topic (ROS) to csv map format to open it with My Maps (Google).
 
 <img src="docs/img/example.png" style="display: block; margin: 0 auto">
 
